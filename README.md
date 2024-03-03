@@ -1,7 +1,7 @@
 
 # Obstacle avoidance robot
 # 
-Obstacle Avoidance RobotObstacle Avoidance Robot
+Obstacle Avoidance Robot obstacle Avoidance Robot
 Developed Embedded C code and Made the hardware connection on Proteus software. In which used AT89C51 microcontroller(8051-family) ,four IR sensor ,2-DC motor ,L293D motor driver.
 1. Obstacle detected in right direction in this case left motor will rotate in anticlockwise and other right motor will rotate in clockwise.
 2. Obstacle detected in left direction in this case left motor will rotate in clockwise and other right motor will rotate in anticlockwise.
